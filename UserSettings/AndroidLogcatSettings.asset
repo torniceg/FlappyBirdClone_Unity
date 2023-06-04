@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "R3CW10X2SKY",
         "name": "com.DefaultCompany.com.unity.template.mobile2D",
-        "processId": 17396,
+        "processId": 18072,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -30,6 +30,12 @@
             "deviceId": "R3CW10X2SKY",
             "name": "com.DefaultCompany.com.unity.template.mobile2D",
             "processId": 17396,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CW10X2SKY",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18072,
             "exited": false
         }
     ],
